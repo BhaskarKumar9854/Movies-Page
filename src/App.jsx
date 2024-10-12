@@ -1,11 +1,11 @@
-import Meal from './MealProject/Meal'
+import Movies from './Movies.jsx'
 
 
 
 function App() {
   return(
  <>
-<Meal />
+<Movies />
  </>
 
   );
