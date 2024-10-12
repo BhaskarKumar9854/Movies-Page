@@ -1,7 +1,7 @@
 import React,{ useState } from 'react'
 import  { movies } from './Data.jsx'
 import 'bootstrap/dist/css/bootstrap.css';
-import './Movie.css'
+import './Movies.css'
 
 
 const Movie = () => {
