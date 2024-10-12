@@ -1,4 +1,4 @@
-import Movies from './Movies.jsx'
+import Movies from './MealProject/Movies.jsx';
 
 
 
