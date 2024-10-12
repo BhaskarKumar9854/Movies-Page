@@ -1,19 +1,15 @@
-import './App.jsx';
-// import Button from './Button .jsx';
-// import Likebutton from './Likebutton.jsx';
-import Movie from './MoviesProject/Movie.jsx';
+import Meal from './MealProject/Meal'
+
 
 
 function App() {
   return(
-    <>
-<Movie />
-{/* <Likebutton /> */}
+ <>
+<Meal />
+ </>
 
-    </>
   );
 }
-
 
 
 

@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    padding: 10px;
+    border: 10px;
+border-radius: 10px;
+
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   margin: 10px auto 10px auto;
+
+
+}
+.search input{
+    width: 500px;
+    border: none;
+    background-color: rgb(70, 44,44);
+}
+.Pink img{
+ 
+
+    margin: 15px;
+
+    transition: 0.7s ease;
+    
+}
+
+.Pink img:hover{
+    transform: scale(1.1); 
+}
+
+.Pink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  text-align: center;
+   
+
+}
+
+
